@@ -3,8 +3,8 @@ package personnages;
 public class Village {
 	private String nom;
 	private Chef chef;
-	private villageois[] nbVillageois;
-	private int nbVillageois= 0;
+//	private villageois[] nbVillageois;
+//	private int nbVillageois= 0;
 	
 	public Village(String nom) {
 		this.nom= nom;
